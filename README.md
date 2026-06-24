@@ -80,7 +80,7 @@ Exploratory-Data-Analysis-Sports/
 ## Quick Start
 
 ```bash
-git clone https://github.com/picklerick0316/Exploratory-Data-Analysis-Sports
+git clone https://github.com/kotnala-harshit/Exploratory-Data-Analysis-Sports
 cd Exploratory-Data-Analysis-Sports
 pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook EDA_Sports.ipynb
@@ -92,4 +92,4 @@ jupyter notebook EDA_Sports.ipynb
 
 **Harshit Kotnala** — Analytics Engineer & Microsoft BI Specialist  
 MSc Business Analytics, University College Cork  
-[GitHub](https://github.com/picklerick0316) · [Portfolio](https://harshitkotnala.github.io)
+[GitHub](https://github.com/kotnala-harshit) · [Portfolio](https://kotnala-harshit.github.io)
