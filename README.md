@@ -2,6 +2,8 @@
 
 Reproducible exploratory analysis of **football, cricket, basketball, tennis, and volleyball**, covering **club/franchise and national-team competition**.
 
+**[Open the public dashboard](https://kotnala-harshit.github.io/Exploratory-Data-Analysis-Sports/)** — hosted on GitHub Pages, with no installation or sign-in.
+
 Start with the interactive explorer, follow the notebooks, or export the analysis as CSV. Everything runs offline after installation, with real historical data included.
 
 ## Included coverage
@@ -15,6 +17,18 @@ Start with the interactive explorer, follow the notebooks, or export the analysi
 The championship dataset contains **50 editions: five per competition**, with a primary-source URL on every row. Date ranges include tournament editions, not every intervening year. This is historical championship coverage, **not full match/player coverage for all five sports or a live feed**. The five sports are an editorial selection; there is no universal, agreed global popularity ranking. Women's competitions and broader league coverage remain outside the bundled sample.
 
 ## Run locally
+
+The public dashboard is built from the same Python calculations as the notebooks. It includes championship filters, source links, CSV export, and IPL analysis for each season or all seasons. Custom CSV uploads and arbitrary multi-season selections remain available in the local Streamlit app.
+
+To build and preview the GitHub Pages version:
+
+```bash
+python build_pages.py
+node test_pages.js
+python -m http.server 8765 --directory _site
+```
+
+Open `http://localhost:8765`. The `Publish dashboard` workflow rebuilds and publishes on each push to `main`. GitHub Pages must use **GitHub Actions** as its publishing source. Only generated dashboard files are uploaded; Python runs during the build, not in visitors' browsers.
 
 Python 3.11 or newer:
 
