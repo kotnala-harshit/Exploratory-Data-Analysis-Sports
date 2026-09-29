@@ -1,0 +1,51 @@
+sport,level,competition,category,year,champion,runner_up,source_url
+Football,Club / franchise,UEFA Champions League,Men,2020,Bayern Munich,Paris Saint-Germain,https://www.uefa.com/uefachampionsleague/history/seasons/2020/
+Football,Club / franchise,UEFA Champions League,Men,2021,Chelsea,Manchester City,https://www.uefa.com/uefachampionsleague/history/seasons/2021/
+Football,Club / franchise,UEFA Champions League,Men,2022,Real Madrid,Liverpool,https://www.uefa.com/uefachampionsleague/history/seasons/2022/
+Football,Club / franchise,UEFA Champions League,Men,2023,Manchester City,Inter Milan,https://www.uefa.com/uefachampionsleague/history/seasons/2023/
+Football,Club / franchise,UEFA Champions League,Men,2024,Real Madrid,Borussia Dortmund,https://www.uefa.com/uefachampionsleague/history/seasons/2024/
+Football,National team,FIFA World Cup,Men,2006,Italy,France,https://www.fifa.com/es/tournaments/mens/worldcup/articles/todas-las-finales-de-la-copa-mundial-de-la-fifa
+Football,National team,FIFA World Cup,Men,2010,Spain,Netherlands,https://www.fifa.com/es/tournaments/mens/worldcup/articles/todas-las-finales-de-la-copa-mundial-de-la-fifa
+Football,National team,FIFA World Cup,Men,2014,Germany,Argentina,https://www.fifa.com/es/tournaments/mens/worldcup/articles/todas-las-finales-de-la-copa-mundial-de-la-fifa
+Football,National team,FIFA World Cup,Men,2018,France,Croatia,https://www.fifa.com/es/tournaments/mens/worldcup/articles/todas-las-finales-de-la-copa-mundial-de-la-fifa
+Football,National team,FIFA World Cup,Men,2022,Argentina,France,https://www.fifa.com/es/tournaments/mens/worldcup/articles/todas-las-finales-de-la-copa-mundial-de-la-fifa
+Cricket,Club / franchise,Indian Premier League,Men,2015,Mumbai Indians,Chennai Super Kings,https://www.iplt20.com/news/article/report-final-mi-vs-csk
+Cricket,Club / franchise,Indian Premier League,Men,2016,Sunrisers Hyderabad,Royal Challengers Bangalore,https://www.iplt20.com/news/article/match-report-final-rcb-vs-srh
+Cricket,Club / franchise,Indian Premier League,Men,2017,Mumbai Indians,Rising Pune Supergiant,https://www.iplt20.com/news/article/match-report-final-rps-vs-mi
+Cricket,Club / franchise,Indian Premier League,Men,2018,Chennai Super Kings,Sunrisers Hyderabad,https://www.iplt20.com/news/article/report-final-csk-vs-srh
+Cricket,Club / franchise,Indian Premier League,Men,2019,Mumbai Indians,Chennai Super Kings,https://www.iplt20.com/news/article/match-report-final-mi-vs-csk
+Cricket,National team,ICC T20 World Cup,Men,2014,Sri Lanka,India,https://www.icc-cricket.com/media-releases/several-high-points-to-look-back-upon-over-the-past-14-years
+Cricket,National team,ICC T20 World Cup,Men,2016,West Indies,England,https://www.icc-cricket.com/news/west-indies-seal-2016-world-twenty20-title
+Cricket,National team,ICC T20 World Cup,Men,2021,Australia,New Zealand,https://www.icc-cricket.com/news/magical-marsh-innings-fires-australia-to-maiden-icc-mens-t20-world-cup-crown
+Cricket,National team,ICC T20 World Cup,Men,2022,England,Pakistan,https://www.icc-cricket.com/news/stokes-the-hero-as-england-claim-second-t20-world-cup-title-in-style
+Cricket,National team,ICC T20 World Cup,Men,2024,India,South Africa,https://www.icc-cricket.com/tournaments/t20cricketworldcup/news/live-india-and-south-africa-face-off-in-t20-world-cup-final
+Basketball,Club / franchise,NBA,Men,2020,Los Angeles Lakers,Miami Heat,https://www.nba.com/news/finals-stat-lakers-heat-6
+Basketball,Club / franchise,NBA,Men,2021,Milwaukee Bucks,Phoenix Suns,https://www.nba.com/playoffs/2021/the-finals
+Basketball,Club / franchise,NBA,Men,2022,Golden State Warriors,Boston Celtics,https://www.nba.com/playoffs/2022/the-finals
+Basketball,Club / franchise,NBA,Men,2023,Denver Nuggets,Miami Heat,https://www.nba.com/game/0042200405
+Basketball,Club / franchise,NBA,Men,2024,Boston Celtics,Dallas Mavericks,https://www.nba.com/playoffs/2024/nba-finals
+Basketball,National team,FIBA Basketball World Cup,Men,2006,Spain,Greece,https://www.fiba.basketball/en/history/201-fiba-basketball-world-cup
+Basketball,National team,FIBA Basketball World Cup,Men,2010,United States,Turkey,https://www.fiba.basketball/en/history/201-fiba-basketball-world-cup
+Basketball,National team,FIBA Basketball World Cup,Men,2014,United States,Serbia,https://www.fiba.basketball/en/history/201-fiba-basketball-world-cup
+Basketball,National team,FIBA Basketball World Cup,Men,2019,Spain,Argentina,https://www.fiba.basketball/en/history/201-fiba-basketball-world-cup
+Basketball,National team,FIBA Basketball World Cup,Men,2023,Germany,Serbia,https://www.fiba.basketball/en/history/201-fiba-basketball-world-cup
+Tennis,Club / franchise,World TeamTennis,Mixed,2017,Orange County Breakers,San Diego Aviators,https://wtt.com/wp-content/uploads/2020/06/MASTER_WTT-Teams-by-year-2019-UPDATED_061020-.pdf
+Tennis,Club / franchise,World TeamTennis,Mixed,2018,Springfield Lasers,Philadelphia Freedoms,https://wtt.com/wp-content/uploads/2020/06/MASTER_WTT-Teams-by-year-2019-UPDATED_061020-.pdf
+Tennis,Club / franchise,World TeamTennis,Mixed,2019,Springfield Lasers,New York Empire,https://wtt.com/wp-content/uploads/2020/06/MASTER_WTT-Teams-by-year-2019-UPDATED_061020-.pdf
+Tennis,Club / franchise,World TeamTennis,Mixed,2020,New York Empire,Chicago Smash,https://wtt.com/videos/
+Tennis,Club / franchise,World TeamTennis,Mixed,2021,Orange County Breakers,Springfield Lasers,https://old.wtt.com/2021/11/28/orange-county-wins-third-title-in-franchise-history-with-win-over-springfield/
+Tennis,National team,Davis Cup,Men,2019,Spain,Canada,https://www.daviscup.com/en/previous-champions
+Tennis,National team,Davis Cup,Men,2021,Russian Tennis Federation,Croatia,https://www.daviscup.com/en/previous-champions
+Tennis,National team,Davis Cup,Men,2022,Canada,Australia,https://www.daviscup.com/en/previous-champions
+Tennis,National team,Davis Cup,Men,2023,Italy,Australia,https://www.daviscup.com/en/previous-champions
+Tennis,National team,Davis Cup,Men,2024,Italy,Netherlands,https://www.daviscup.com/en/previous-champions
+Volleyball,Club / franchise,FIVB Club World Championship,Men,2017,Zenit Kazan,Cucine Lube Civitanova,https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/competition/previous-winners
+Volleyball,Club / franchise,FIVB Club World Championship,Men,2018,Trentino Volley,Cucine Lube Civitanova,https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/competition/previous-winners
+Volleyball,Club / franchise,FIVB Club World Championship,Men,2019,Cucine Lube Civitanova,Sada Cruzeiro,https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/competition/previous-winners
+Volleyball,Club / franchise,FIVB Club World Championship,Men,2021,Sada Cruzeiro,Cucine Lube Civitanova,https://en.volleyballworld.com/volleyball/competitions/club-world-championship-men/2022/competition/previous-winners
+Volleyball,Club / franchise,FIVB Club World Championship,Men,2022,Perugia,Trentino Volley,https://en.volleyballworld.com/news/unstoppable-perugia-claim-first-world-title
+Volleyball,National team,FIVB World Championship,Men,2006,Brazil,Poland,https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/competition/honours
+Volleyball,National team,FIVB World Championship,Men,2010,Brazil,Cuba,https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/competition/honours
+Volleyball,National team,FIVB World Championship,Men,2014,Poland,Brazil,https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/competition/honours
+Volleyball,National team,FIVB World Championship,Men,2018,Poland,Brazil,https://en.volleyballworld.com/volleyball/competitions/men-world-championship/2022/competition/honours
+Volleyball,National team,FIVB World Championship,Men,2022,Italy,Poland,https://en.volleyballworld.com/news/fantastic-italy-regain-world-title-after-24-years
